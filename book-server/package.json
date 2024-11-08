@@ -1,0 +1,16 @@
+{
+  "name": "book-server",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "directus start",
+    "mg": "directus database migrate:latest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "directus": "^10.8.3",
+    "sqlite3": "^5.1.7"
+  }
+}
