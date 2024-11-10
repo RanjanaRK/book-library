@@ -11,7 +11,7 @@ const Nav = () => {
     <>
       <Navbar isBordered maxWidth="2xl">
         <NavbarBrand>
-          <Link href={"/"} className="font-bold text-inherit text-2xl">
+          <Link href={"/"} className="font-bold text-inherit text-3xl">
             Book Library
           </Link>
         </NavbarBrand>
